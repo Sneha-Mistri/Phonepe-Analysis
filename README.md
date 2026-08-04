@@ -1,4 +1,4 @@
-# ⚡ PhonePe Pulse: Payment Insights Dashboard
+# ⚡ PhonePe : Payment Insights Dashboard
 
 A dynamic, interactive Power BI analytics dashboard designed to analyze digital payment transactions, user growth trends, demographics, and service adoption across India’s digital payments ecosystem.
 
